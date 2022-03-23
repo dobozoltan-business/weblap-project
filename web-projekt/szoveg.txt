@@ -1,0 +1,49 @@
+MAGYAR
+--------------------------
+Rólam:
+Helló, sziasztok! Én Dobó Zoltán Dávid, röviden Zoli vagyok! Január 16-ai születésű vagyok, [16] éves iskolai tanuló. Szegeden élek és születtem is! Programozás és hálózat szakon tanulok jelenleg. Szeretek programozni, rajzolni, játszani és beszélgetni barátokkal, ezáltal barátokat is szerezni. Nem vagyok egy túlságosan sportoló ember, tehát sokat ülök a gép előtt. Mielőtt elfelejteném, üdvözöllek titeket a saját kis projektgyűjtő oldalamon. Próbálok fejleszteni folyamatosan és emellett az adatokat frissíteni. Magát ezt az oldalamat saját magam tesztelésére, fejlesztésére találtam ki és, hogy gyakorolhassak, esetlegesen bemutathassam másoknak. Illetőleg akárki ihlet szerzési forrásának gyarapítására szolgál ez az oldal. A kép- és szöveganyag szabad felhasználása nem engedélyezett. Megköszönném, ha majd a lap alján hagynál egy kis értékelést. Előre is köszi és jó nézegetést. 
+
+-----------
+Munkáim:
+
+Neve: XYZ
+Nyelv: Python/HTML&CSS&JS
+Mennyi ideig tartott: év/hó/nap (ha nem volt év, hó, de nap igen, csak az írja ki spreadsheetből)
+
+
+-----------
+Tervben lévő munkáim:
+
+Státusz: Aktív
+Neve: XYZ-Projekt
+Nyelv: Python/HTML&CSS&JS
+Haladás: x%
+
+--------------------------
+--------------------------
+
+ANGOL
+--------------------------
+About me:
+
+Greetings, hello! I am Zoltán Dávid Dobó, shortly as nickname is Zoli. I was born at 16th day of January, so I'm a [16] years old student. I was born and still living in Szeged, Hungary. I learn programming and networks in school right now. My hobbies what I loves are programming, drawing, play games and chatting or talking with friends, that makes me get friends. I'm not a really sportsman, so I give too much space for computers in my life. Before I forget, gladly thank You to visit my own little project collecting site. I try to upgrade continuously and update datas. I invented this page for my own testing, development and practicing, possibly present it to others. Or this site is for anyone to increase their source of inspiration. Free use of images and text is not permitted. Thank you for leaving a little review at the bottom of the page. Thanks for advance and good viewing. 
+
+-----------
+My Works:
+
+Name: XYZ
+Language: Python/HTML&CSS&JS
+How much time did this take: year/month/day (ha nem volt év, hó, de nap igen, csak az írja ki spreadsheetből)
+
+-----------
+Works in Progress:
+
+Status: Active
+Name: XYZ-Project
+Language: Python/HTML&CSS&JS
+Progress: x%
+
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+A Munkák leírásánál a listaelemek képekkel legyen jelölve
